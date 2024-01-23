@@ -1,0 +1,22 @@
+#border{
+    border: 2px solid;
+    width: 700px;
+    height: 500px;
+    margin: 85px 0px 0px 385px;
+    position: relative;
+}
+#paddle{
+    background-color: blue;
+    height: 62px;
+    width: 13px;
+    margin-left: 1px;
+    position: relative;
+}
+#ball{
+    background-color: greenyellow;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  position: absolute;
+}
+
